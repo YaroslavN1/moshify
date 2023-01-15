@@ -1,0 +1,11 @@
+<div class="collapsible collapsible--expanded">
+  <header class="collapsible__top">
+    <h3 class="collapsible__heading">Products</h3>
+    <div class="icon icon--white collapsible__icon"></div>
+  </header>
+  <ul class="list collapsible__list">
+    <li class="list__item">List item 1</li>
+    <li class="list__item">List item 2</li>
+    <li class="list__item">List item 3</li>
+  </ul>
+</div>
